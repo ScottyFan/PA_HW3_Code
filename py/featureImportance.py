@@ -13,7 +13,6 @@ import modeling
 import hyperparameter
 
 def get_feature_importance(models, X, y, feature_names):
-    """Calculate feature importance for each model."""
     importance_df = pd.DataFrame()
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
