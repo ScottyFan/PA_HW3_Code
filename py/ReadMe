@@ -1,1 +1,5 @@
-If the Python file has error, please look at PAHW3.ipynb in ipynb folder. It shows the results of each part.
+If the Python file has error, it may occure due to the absence of certain files or modules.
+
+Note: Breast_Cancer_dataset.csv should be in the same directory as the Python files.
+
+The code worked on my device. If you encounter any problem, please look at PAHW3.ipynb in ipynb folder. It shows the results of each part.
